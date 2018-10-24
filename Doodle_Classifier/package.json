@@ -1,0 +1,14 @@
+{
+  "name": "doodle_classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "toy-neural-network": "git+https://github.com/CodingTrain/Toy-Neural-Network-JS.git"
+  }
+}
